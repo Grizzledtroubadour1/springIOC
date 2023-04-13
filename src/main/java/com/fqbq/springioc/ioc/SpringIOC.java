@@ -118,7 +118,7 @@ public class SpringIOC {
     }
 
     private void initPath() {
-        basePath = "F:\\qcby\\ioc\\src\\main\\java\\com\\fqbq\\springioc\\";
+        basePath = "F:\\qcby\\springIoc\\src\\main\\java\\com\\fqbq\\springioc\\";
         basePackage = "com.fqbq.springioc";
     }
 
